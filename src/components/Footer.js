@@ -10,7 +10,7 @@ function Footer() {
       <div className="socialMedia">
         <InstagramIcon /> <FacebookIcon /> <LinkedInIcon />
       </div>
-      <p> &copy; 2022 Slatka kuća</p>
+      <p> &copy; 2022 Slatko carstvo</p>
     </div>
   );
 }
